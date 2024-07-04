@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jean-Luc.Jordi\\Desktop\\Schule\\431\\Code\\LinuxHandbuch\\LinuxHandbuch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LinuxHandbuch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LinuxHandbuch.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jean-Luc.Jordi\\Desktop\\Schule\\431\\Code\\LinuxHandbuch\\LinuxHandbuch\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jean-Luc.Jordi\\Desktop\\Schule\\431\\Code\\LinuxHandbuch\\LinuxHandbuch\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jean-Luc.Jordi\\Desktop\\Schule\\431\\Code\\LinuxHandbuch\\LinuxHandbuch\\wwwroot\\images\\Tux.svg",
+      "PackagePath": "staticwebassets\\images\\Tux.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jean-Luc.Jordi\\Desktop\\Schule\\431\\Code\\LinuxHandbuch\\LinuxHandbuch\\wwwroot\\mainLayout.css",
+      "PackagePath": "staticwebassets\\mainLayout.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LinuxHandbuch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LinuxHandbuch.props",
+      "PackagePath": "build\\LinuxHandbuch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LinuxHandbuch.props",
+      "PackagePath": "buildMultiTargeting\\LinuxHandbuch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LinuxHandbuch.props",
+      "PackagePath": "buildTransitive\\LinuxHandbuch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

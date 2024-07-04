@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+
+<MudThemingProvider/>
+<MudLayout>
+    <MudAppBar Elevation="1">
+        <!--<image style="height: 3em" Src="/images/Tux.svg"></image>--><MudText Typo="Typo.h5" Class="ml-3">Linux Handbuch</MudText>
+    </MudAppBar>
+    <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always" Elevation="2">
+        <NavMenu/>
+    </MudDrawer>
+    <MudMainContent Class="mt-16 pa-4">
+        <MudIconButton Style="position: absolute;top: 16px;left: auto;width: fit-content;" Icon="@(_drawerOpen ? @Icons.Material.Filled.KeyboardDoubleArrowLeft : @Icons.Material.Filled.KeyboardDoubleArrowRight)" OnClick="@DrawerToggle" Size="Size.Large"/>
+        @Body
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    private bool _drawerOpen = true;
+
+    private void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+
+}

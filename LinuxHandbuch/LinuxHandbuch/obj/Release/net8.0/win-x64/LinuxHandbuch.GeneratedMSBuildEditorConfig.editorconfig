@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LinuxHandbuch
+build_property.RootNamespace = LinuxHandbuch
+build_property.ProjectDir = C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuch\LinuxHandbuch\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuch\LinuxHandbuch
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/Installation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnN0YWxsYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/UeberLinux.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVZWJlckxpbnV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-j9uz5mwqsn
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/NetzwerkUndInternetkonfiguration.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOZXR6d2Vya1VuZEludGVybmV0a29uZmlndXJhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6how3uuszu
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/PackageManager.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWNrYWdlTWFuYWdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-souxn0o5j8
+
+[C:/Users/Jean-Luc.Jordi/Desktop/Schule/431/Code/LinuxHandbuch/LinuxHandbuch/Components/Pages/WichtigeCommands.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXaWNodGlnZUNvbW1hbmRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-pdq6lf8lkj

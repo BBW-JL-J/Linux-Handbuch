@@ -1,0 +1,4 @@
+C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuchPublish\appsettings.Development.json
+C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuchPublish\appsettings.json
+C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuchPublish\LinuxHandbuch.pdb
+C:\Users\Jean-Luc.Jordi\Desktop\Schule\431\Code\LinuxHandbuchPublish\LinuxHandbuch.exe
